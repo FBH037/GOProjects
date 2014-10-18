@@ -1,4 +1,8 @@
 
+//This is a program that we wrote in the Denver Beginning GO meetup on 10/13/14 at Galvanize
+//Cory LaNou was leading the class
+//https://github.com/gSchool/go/tree/master/Events/Meetups/Beginning-Go
+
 package main
 import ("flag"
 		"fmt"
